@@ -1,7 +1,3 @@
-Here’s a concise and professional **README.md** file for your repository:
-
----
-
 # **TerpBuy SQL Project**
 
 ## **Overview**
