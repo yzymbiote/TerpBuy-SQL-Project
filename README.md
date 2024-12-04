@@ -1,5 +1,13 @@
 # **TerpBuy SQL Project**
 
+## Tech Stack
+
+- SQL
+- MySQL Workbench
+- GitHub
+- Microsoft Excel (for visualization and PDF generation)
+
+
 ## **Overview**
 The **TerpBuy SQL Project** is a comprehensive database design and implementation project for a mock B2B and B2C e-commerce platform. It demonstrates the creation of database schema, insertion of sample data, and execution of analytical queries to simulate real-world database operations for business reporting.
 
